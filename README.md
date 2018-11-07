@@ -1,4 +1,4 @@
-# BI-система команды KRACIVO для хакатона HFD4
+# Fork BI-системы команды KRACIVO для хакатона [HackForData 4](https://github.com/hackfordata/4)
 
 ## Команда
 + [Веретенников Павел](https://www.facebook.com/PavelVeret)
